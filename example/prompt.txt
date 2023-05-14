@@ -1,0 +1,9 @@
+sitting outside a convenience store,
+
+<lora:aiBeautyIthlinni_ithlinniV1:0.6>,<lora:koreanDollLikeness_v15:0.3>,<lora:chilloutmixss_xss10:0.3>,
+
+nikon RAW photo,8 k,Fujifilm XT3,(photorealistic:1.4),masterpiece,best quality, realistic, photorealistic, physically-based rendering,ultra high res,ultra detailed,extremely detailed face,((puffy eyes)),
+masterpiece,masterpiece, top quality, best quality, realistic, unity, 8k wallpaper, official art, extremely detailed CG unity 8k wallpaper, (original: 1.2), (realistic: 1.4), ultra detail, high resolution, ultra detailed,amazing, fine detail,(1girl:1.4 ), (realistic skin:1.2), (light brown skin:1.2), full body
+
+Negative prompt: paintings,sketches,(low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans,extra fingers,fewer fingers,strange fingers,bad hand,EasyNegative, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans, (outdoor:1.6), backlight,(ugly:1.331), (duplicate:1.331), (morbid:1.21), (mutilated:1.21), (tranny:1.331), mutated hands, (poorly drawn hands:1.5), blurry, (bad anatomy:1.21), (bad proportions:1.331), extra limbs, (disfigured:1.331), (more than 2 nipples:1.331), (missing arms:1.331), (extra legs:1.331), (fused fingers:1.61051), (too many fingers:1.61051), (unclear eyes:1.331), lowers, bad hands, missing fingers, extra digit, (futa:1.1),bad hands, missing fingers, multiple feet,(worst quality:2),multiple people, multiple girls, two girls, more than one girl, nsfw, sexy, big boobs
+Steps: 30, Sampler: DPM++ 2M Karras, CFG scale: 8, Seed: 371685405, Face restoration: CodeFormer, Size: 768x768, Model hash: fc2511737a, Model: chilloutmix, Denoising strength: 0.5, Hires upscale: 1.5, Hires steps: 20, Hires upscaler: Latent
